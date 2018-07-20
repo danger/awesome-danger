@@ -1,2 +1,111 @@
 # awesome-danger
 An awesome list of all things Danger
+
+## What is Danger?
+
+[Danger](https://github.com/danger/danger) runs after your CI, automating your team's conventions surrounding code review.
+
+This provides another logical step in your process, through this Danger can help lint your rote tasks in daily code review.
+
+You can use Danger to codify your teams norms, leaving humans to think about harder problems.
+
+## Plugins
+
+### Ruby (danger)
+- [danger-ruby-swiftlint](https://github.com/ashfurrow/danger-ruby-swiftlint) - A Danger plugin for SwiftLint.
+- [danger-xcode_summary](https://github.com/diogot/danger-xcode_summary) - A Danger plugin showing all build errors, warnings and unit tests results from xcodebuild.
+- [danger-xcov](https://github.com/nakiostudio/danger-xcov) - Danger plugin to validate the code coverage of the files changed in a pull request.
+- [danger-mention](https://github.com/danger/danger-mention) - Danger plugin to automatically mention potential reviewers on pull requests.
+- [danger-xcprofiler](https://github.com/giginet/danger-xcprofiler) - Danger plugin for asserting Swift compilation time.
+- [danger-prose](https://github.com/dbgrandi/danger-prose) - Danger plugin to lint your blog posts with proselint.
+- [danger-junit](https://github.com/orta/danger-junit) - Lets you report your test suite problems back to the PR elegantly.
+- [danger-commit_lint](https://github.com/jonallured/danger-commit_lint) - Use Danger to lint your commit messages.
+- [danger-code_style_validation](https://github.com/flix-tech/danger-code_style_validation) - Danger plugin for code style validation based on clang-format.
+- [danger-rubocop](https://github.com/ashfurrow/danger-rubocop) - Danger plugin for Rubocop.
+- [danger-android_lint](https://github.com/loadsmart/danger-android_lint) - A Danger plugin for Android Lint.
+- [danger-changelog](https://github.com/dblock/danger-changelog) - A plugin that is OCD about your CHANGELOG format.
+- [danger-lgtm](https://github.com/leonhartX/danger-lgtm) - Let Danger say LGTM!
+- [Danger-Slather](https://github.com/BrunoMazzo/Danger-Slather) - Danger plugin for Slather framework.
+- [danger-pronto](https://github.com/RestlessThinker/danger-pronto) - A Danger plugin to lint files through Pronto.
+- [danger-xcodebuild](https://github.com/valeriomazzeo/danger-xcodebuild) - Exposes warnings, errors and test results.
+- [danger-synx](https://github.com/elpassion/danger-synx) - A Danger plugin for Synx.
+- [danger-clorox](https://github.com/barbosa/danger-clorox) - A Danger plugin for Clorox.
+- [danger-the_coding_love](https://github.com/valeriomazzeo/danger-the_coding_love) - Danger plugin that prints markdown containing a random post from [thecodinglove.com](http://thecodinglove.com)
+- [danger-pep8](https://github.com/loadsmart/danger-pep8) - A Danger plugin for Python's PEP 8.
+- [danger-checkstyle_format](https://github.com/noboru-i/danger-checkstyle_format) - Danger plugin for checkstyle formatted xml file. 
+- [danger-missed_localizable_strings](https://github.com/Antondomashnev/danger-missed_localizable_strings) - A Danger plugin to remind developers to localize strings.
+- [danger-todoist](https://github.com/hanneskaeufler/danger-todoist) - Danger plugin to look for todo/fixme comments in pull requests.
+- [danger-ios_logs](https://github.com/PGSSoft/danger-ios_logs) - Danger plugin to detect any NSLog/print entries left in the code.
+- [danger-hlint](https://github.com/blender/danger-hlint) - A Danger plugin for Hlint.
+- [danger-eslint](https://github.com/leonhartX/danger-eslint) - A Danger plugin for linting javascript with eslint.
+- [danger-jira](https://github.com/RestlessThinker/danger-jira) - Danger plugin to link JIRA issues in a pull request.
+- [danger-ruby-swiftformat](https://github.com/garriguv/danger-ruby-swiftformat) - A danger plugin to check Swift formatting using SwiftFormat.
+- [danger-vale](https://github.com/MatMoore/danger-vale) - Vale plugin for Danger.
+- [danger-slack](https://github.com/duck8823/danger-slack) - Post a notification to slack in a Dangerfile.
+
+### TypeScript (danger-js)
+- [danger-plugin-flow](https://github.com/withspectrum/danger-plugin-flow) - Ensure all JS files that get touched in a PR are flow typed.
+- [danger-plugin-labels](https://github.com/withspectrum/danger-plugin-labels) - Let any contributor add labels to their PRs and issues.
+- [danger-plugin-yarn](https://github.com/orta/danger-plugin-yarn) - Provides dependency information on dependency changes in a PR *
+- [danger-plugin-jest](https://github.com/macklinu/danger-plugin-jest) - Danger plugin for Jest.
+- [danger-plugin-spellcheck](https://github.com/orta/danger-plugin-spellcheck) - Spell checks .md files in a PR using node-markdown-spellcheck.
+- [danger-plugin-jira-issue](https://github.com/macklinu/danger-plugin-jira-issue) - Danger plugin to link JIRA issue in pull request.
+- [danger-plugin-istanbul-coverage](https://github.com/darcy-rayner/danger-plugin-istanbul-coverage) - Danger.js plugin for monitoring code coverage on changed files.
+- [danger-plugin-tslint](https://github.com/macklinu/danger-plugin-tslint) - Danger plugin for TSLint.
+- [dangerjs-plugin](https://github.com/indigotech/dangerjs-plugin) - Taqtile Danger-js Plugin.
+- [danger-plugin-mentor](https://github.com/hanneskaeufler/danger-plugin-mentor) - A Danger plugin to level up with each pull request.
+- [danger-plugin-eslint](https://github.com/danpalmer/danger-plugin-eslint) - Eslint your code with Danger.
+- [danger-plugin-textlint](https://github.com/okitan/danger-plugin-textlint) - Danger plugin for textlint.
+- [danger-plugin-xcode-report](https://github.com/stevethomp/danger-plugin-xcode-report) - Add your Xcode test results to Danger.
+- [danger-plugin-slack](https://github.com/julon/danger-plugin-slack) - DangerJS plugin to send report & message to Slack.
+- [danger-plugin-no-test-shortcuts](https://github.com/macklinu/danger-plugin-no-test-shortcuts) - Danger plugin to prevent merging test shortcuts (.only and .skip).
+
+
+### Swift (danger-swift)
+- [danger-swiftlint](https://github.com/ashfurrow/danger-swiftlint) - Automated Swift linting on pull requests.
+- [LGTMKit](https://github.com/d-date/LGTMKit) - Get LGTM image from lgtm.in, written by swift.
+- [danger-xiblint](https://github.com/sunshinejr/danger-xiblint) - [WIP] Xiblint plugin for Danger Swift
+- [danger-iblinter](https://github.com/IBDecodable/danger-iblinter) - [WIP] Automated IB linting on pull requests.
+
+## Dangerfiles
+
+### Ruby (danger)
+- https://github.com/Moya/Moya/blob/master/Dangerfile
+- https://github.com/SwifterSwift/SwifterSwift/blob/master/Dangerfile
+- https://github.com/IBAnimatable/IBAnimatable/blob/master/Dangerfile
+- https://github.com/CocoaPods/CocoaPods/blob/master/Dangerfile
+- https://github.com/artsy/force/blob/master/Dangerfile
+- https://github.com/artsy/eigen/blob/master/Dangerfile
+- https://github.com/artsy/energy/blob/master/Dangerfile
+- https://github.com/SwiftWeekly/swiftweekly.github.io/blob/master/Dangerfile
+
+### TypeScript (danger-js)
+- https://github.com/artsy/emission/blob/master/dangerfile.ts
+
+### Swift (danger-swift)
+- https://github.com/Moya/Harvey/blob/master/Dangerfile.swift
+
+# Peril
+
+## What is Peril?
+
+[Peril](https://github.com/danger/peril) is a tool that takes GitHub webhooks, and makes it easy to build one-off actions. It does this by having a per-account settings JSON, that connects JavaScript files to events from webhooks. 
+
+So, for example, you can write a rule which runs when closing an issue in GitHub that looks for associated Jira tickets and resolves them. 
+
+Peril provides no implicit actions like that, it instead offers a JavaScript runtime environment optimised to this domain so you can make actions to fit your needs.
+
+## Peril Settings Repos
+
+### Organizations
+- https://github.com/danger/peril-settings
+- https://github.com/artsy/peril-settings
+- https://github.com/CocoaPods/peril-settings
+- https://github.com/Moya/moya-peril
+- https://github.com/RxSwiftCommunity/peril
+- https://github.com/xcode-project-manager/peril-settings
+- https://github.com/loadsmart/peril-staging-settings
+
+### Personal
+- https://github.com/ashfurrow/peril-settings
+- https://github.com/orta/peril-settings
