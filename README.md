@@ -1,5 +1,11 @@
 # awesome-danger
-An awesome list of all things Danger
+
+<p align="center">
+  <a href="https://danger.systems"><img src="http://danger.systems/images/js/danger-logo-hero-cachable@2x.png" height="80"  hspace="10px" vspace="10px"></a>
+  <a href="https://github.com/danger/peril"><img src="http://danger.systems/images/js/peril-logo-hero-cachable@2x.png" height="80"  hspace="10px" vspace="10px"></a>
+  </br>An awesome list of all things Danger
+</p>
+
 
 ## What is Danger?
 
