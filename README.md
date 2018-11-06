@@ -112,6 +112,7 @@ Peril provides no implicit actions like that, it instead offers a JavaScript run
 - https://github.com/RxSwiftCommunity/peril
 - https://github.com/xcode-project-manager/peril-settings
 - https://github.com/loadsmart/peril-staging-settings
+- https://github.com/wearereasonablepeople/peril-settings
 
 ### Personal
 - https://github.com/ashfurrow/peril-settings
