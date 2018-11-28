@@ -48,6 +48,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-ruby-swiftformat](https://github.com/garriguv/danger-ruby-swiftformat) - A danger plugin to check Swift formatting using SwiftFormat.
 - [danger-vale](https://github.com/MatMoore/danger-vale) - Vale plugin for Danger.
 - [danger-slack](https://github.com/duck8823/danger-slack) - Post a notification to slack in a Dangerfile.
+- [danger-review_requests](https://github.com/m-nakamura145/danger-review_requests) - Danger plugin to request a review in pull requests.
 
 ### TypeScript (danger-js)
 - [danger-plugin-flow](https://github.com/withspectrum/danger-plugin-flow) - Ensure all JS files that get touched in a PR are flow typed.
