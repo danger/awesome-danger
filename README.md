@@ -65,6 +65,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-plugin-textlint](https://github.com/okitan/danger-plugin-textlint) - Danger plugin for textlint.
 - [danger-plugin-xcode-report](https://github.com/stevethomp/danger-plugin-xcode-report) - Add your Xcode test results to Danger.
 - [danger-plugin-slack](https://github.com/julon/danger-plugin-slack) - DangerJS plugin to send report & message to Slack.
+- [danger-plugin-typetalk](https://github.com/is2ei/danger-plugin-typetalk) - DangerJS plugin to send report & message to Typetalk.
 - [danger-plugin-no-test-shortcuts](https://github.com/macklinu/danger-plugin-no-test-shortcuts) - Danger plugin to prevent merging test shortcuts (.only and .skip).
 
 
