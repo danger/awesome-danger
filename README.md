@@ -75,7 +75,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-xiblint](https://github.com/sunshinejr/danger-xiblint) - [WIP] Xiblint plugin for Danger Swift
 - [danger-iblinter](https://github.com/IBDecodable/danger-iblinter) - [WIP] Automated IB linting on pull requests.
 - [danger-swift-xcodesummary](https://github.com/f-meloni/danger-swift-xcodesummary) - Adds build errors, warnings and unit tests results generated from xcodebuild to your Danger report
-
+- [danger-swift-coverage](https://github.com/f-meloni/danger-swift-coverage) - Show the coverage of the modified/created files
 ## Dangerfiles
 
 ### Ruby (danger)
