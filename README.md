@@ -28,6 +28,8 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-commit_lint](https://github.com/jonallured/danger-commit_lint) - Use Danger to lint your commit messages.
 - [danger-code_style_validation](https://github.com/flix-tech/danger-code_style_validation) - Danger plugin for code style validation based on clang-format.
 - [danger-rubocop](https://github.com/ashfurrow/danger-rubocop) - Danger plugin for Rubocop.
+- [danger-ktlint](https://github.com/mataku/danger-ktlint) - A Danger Plugin to lint kotlin files using [ktlint](https://github.com/pinterest/ktlint) command line interface.
+- [danger-kotlin_detekt](https://github.com/NFesquet/danger-kotlin_detekt) - Detekt files of a gradle based project, using [Detekt](https://github.com/arturbosch/detekt) tool.
 - [danger-android_lint](https://github.com/loadsmart/danger-android_lint) - A Danger plugin for Android Lint.
 - [danger-changelog](https://github.com/dblock/danger-changelog) - A plugin that is OCD about your CHANGELOG format.
 - [danger-lgtm](https://github.com/leonhartX/danger-lgtm) - Let Danger say LGTM!
