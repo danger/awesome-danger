@@ -82,6 +82,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-iblinter](https://github.com/IBDecodable/danger-iblinter) - [WIP] Automated IB linting on pull requests.
 - [danger-swift-xcodesummary](https://github.com/f-meloni/danger-swift-xcodesummary) - Adds build errors, warnings and unit tests results generated from xcodebuild to your Danger report
 - [danger-swift-coverage](https://github.com/f-meloni/danger-swift-coverage) - Show the coverage of the modified/created files
+- [DangerSwiftHammer](https://github.com/el-hoshino/DangerSwiftHammer) - A handy plugin to extend your DangerDSL abilities, like getting git diff patch for a file
 
 
 ### Kotlin (danger-kotlin)
