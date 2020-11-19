@@ -73,6 +73,8 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-plugin-slack](https://github.com/julon/danger-plugin-slack) - DangerJS plugin to send report & message to Slack.
 - [danger-plugin-typetalk](https://github.com/is2ei/danger-plugin-typetalk) - DangerJS plugin to send report & message to Typetalk.
 - [danger-plugin-no-test-shortcuts](https://github.com/macklinu/danger-plugin-no-test-shortcuts) - Danger plugin to prevent merging test shortcuts (.only and .skip).
+- [danger-plugin-lerna](https://github.com/alexandermendes/danger-plugin-lerna) - Reports which packages in a lerna mono-repo will be published.
+
 
 
 ### Swift (danger-swift)
@@ -110,9 +112,9 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 
 ## What is Peril?
 
-[Peril](https://github.com/danger/peril) is a tool that takes GitHub webhooks, and makes it easy to build one-off actions. It does this by having a per-account settings JSON, that connects JavaScript files to events from webhooks. 
+[Peril](https://github.com/danger/peril) is a tool that takes GitHub webhooks, and makes it easy to build one-off actions. It does this by having a per-account settings JSON, that connects JavaScript files to events from webhooks.
 
-So, for example, you can write a rule which runs when closing an issue in GitHub that looks for associated Jira tickets and resolves them. 
+So, for example, you can write a rule which runs when closing an issue in GitHub that looks for associated Jira tickets and resolves them.
 
 Peril provides no implicit actions like that, it instead offers a JavaScript runtime environment optimised to this domain so you can make actions to fit your needs.
 
