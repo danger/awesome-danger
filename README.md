@@ -74,7 +74,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-plugin-typetalk](https://github.com/is2ei/danger-plugin-typetalk) - DangerJS plugin to send report & message to Typetalk.
 - [danger-plugin-no-test-shortcuts](https://github.com/macklinu/danger-plugin-no-test-shortcuts) - Danger plugin to prevent merging test shortcuts (.only and .skip).
 - [danger-plugin-lerna](https://github.com/alexandermendes/danger-plugin-lerna) - Reports which packages in a lerna mono-repo will be published.
-
+- [danger-plugin-coverage](https://github.com/alexandermendes/danger-plugin-coverage) - Another test coverage reporter, based on clover.xml reports
 
 
 ### Swift (danger-swift)
