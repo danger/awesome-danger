@@ -87,6 +87,9 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 
 ### Kotlin (danger-kotlin)
 - [danger-kotlin-android-lint-plugin](https://github.com/gianluz/danger-kotlin-android-lint-plugin) - Show the android lint errors
+- [danger-kotlin-detekt](https://github.com/AckeeCZ/danger-kotlin-detekt) - Process outputs of detekt tool
+- [danger-kotlin-commit-lint](https://github.com/AckeeCZ/danger-kotlin-commit-lint) - Lint the commit messages
+- [danger-kotlin-junit](https://github.com/AckeeCZ/danger-kotlin-junit) - Process junit reports
 
 ## Dangerfiles
 
