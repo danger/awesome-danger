@@ -41,7 +41,8 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-the_coding_love](https://github.com/valeriomazzeo/danger-the_coding_love) - Danger plugin that prints markdown containing a random post from [thecodinglove.com](http://thecodinglove.com)
 - [danger-pep8](https://github.com/loadsmart/danger-pep8) - A Danger plugin for Python's PEP 8.
 - [danger-checkstyle_format](https://github.com/noboru-i/danger-checkstyle_format) - Danger plugin for checkstyle formatted xml file.
-- [danger-findbugs](https://github.com/kazy1991/danger-findbugs) - Danger plugin for findbugs formatted xml file.
+- [danger-findbugs](https://github.com/kazy1991/danger-findbugs) - Danger plugin for FindBugs formatted XML file.
+- [danger-spotbugs](https://github.com/mathroule/danger-spotbugs) - Danger plugin for SpotBugs formatted XML file.
 - [danger-pmd](https://github.com/mathroule/danger-pmd) - Danger plugin for PMD formatted XML file.
 - [danger-missed_localizable_strings](https://github.com/Antondomashnev/danger-missed_localizable_strings) - A Danger plugin to remind developers to localize strings.
 - [danger-todoist](https://github.com/hanneskaeufler/danger-todoist) - Danger plugin to look for todo/fixme comments in pull requests.
