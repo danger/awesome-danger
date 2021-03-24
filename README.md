@@ -56,6 +56,8 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-review_requests](https://github.com/m-nakamura145/danger-review_requests) - Danger plugin to request a review in pull requests.
 - [danger-brakeman](https://github.com/nakamurau1/danger-brakeman) - A Danger plugin for Brakeman.
 - [danger-go](https://github.com/KennethanCeyer/danger-go) - A Danger plugin for Golang.
+- [danger-rubyc](https://github.com/skatkov/danger-rubyc) - Danger plugin to validate syntax for Ruby files.
+- [danger-yamlint](https://github.com/skatkov/danger-yamlint) - A no-dependency Danger plugin to lint YAML files.
 
 ### TypeScript (danger-js)
 - [danger-plugin-flow](https://github.com/withspectrum/danger-plugin-flow) - Ensure all JS files that get touched in a PR are flow typed.
