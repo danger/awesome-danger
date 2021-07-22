@@ -93,6 +93,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-kotlin-detekt](https://github.com/AckeeCZ/danger-kotlin-detekt) - Process outputs of detekt tool
 - [danger-kotlin-commit-lint](https://github.com/AckeeCZ/danger-kotlin-commit-lint) - Lint the commit messages
 - [danger-kotlin-junit](https://github.com/AckeeCZ/danger-kotlin-junit) - Process junit reports
+- [danger-kotlin-jira](https://github.com/rojanthomas/danger-kotlin-jira) - Collect and display mentioned JIRA issues as a hyperlinked Danger message
 
 ## Dangerfiles
 
