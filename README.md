@@ -87,6 +87,8 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-swift-xcodesummary](https://github.com/f-meloni/danger-swift-xcodesummary) - Adds build errors, warnings and unit tests results generated from xcodebuild to your Danger report
 - [danger-swift-coverage](https://github.com/f-meloni/danger-swift-coverage) - Show the coverage of the modified/created files
 - [DangerSwiftHammer](https://github.com/el-hoshino/DangerSwiftHammer) - A handy plugin to extend your DangerDSL abilities, like getting git diff patch for a file
+- [danger-swift-shoki](https://github.com/yumemi-inc/danger-swift-shoki/) - A danger-swift plug-in to manage/post danger checking reports with markdown style
+- [danger-swift-eda](https://github.com/yumemi-inc/danger-swift-eda/) - A danger-swift plug-in to check if the PR matches a specific workflow (e.g. Git-Flow)
 
 
 ### Kotlin (danger-kotlin)
