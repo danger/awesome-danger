@@ -87,6 +87,8 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-swift-xcodesummary](https://github.com/f-meloni/danger-swift-xcodesummary) - Adds build errors, warnings and unit tests results generated from xcodebuild to your Danger report
 - [danger-swift-coverage](https://github.com/f-meloni/danger-swift-coverage) - Show the coverage of the modified/created files
 - [DangerSwiftHammer](https://github.com/el-hoshino/DangerSwiftHammer) - A handy plugin to extend your DangerDSL abilities, like getting git diff patch for a file
+- [danger-swift-commit-lint](https://github.com/AppDifferentia/danger-swift-commit-lint) - A `danger-swift` commit linter
+- [danger-swift-jira](https://github.com/AppDifferentia/danger-swift-jira) - Show Jira issue on the pull request
 
 
 ### Kotlin (danger-kotlin)
@@ -119,9 +121,9 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 
 ## What is Peril?
 
-[Peril](https://github.com/danger/peril) is a tool that takes GitHub webhooks, and makes it easy to build one-off actions. It does this by having a per-account settings JSON, that connects JavaScript files to events from webhooks. 
+[Peril](https://github.com/danger/peril) is a tool that takes GitHub webhooks, and makes it easy to build one-off actions. It does this by having a per-account settings JSON, that connects JavaScript files to events from webhooks.
 
-So, for example, you can write a rule which runs when closing an issue in GitHub that looks for associated Jira tickets and resolves them. 
+So, for example, you can write a rule which runs when closing an issue in GitHub that looks for associated Jira tickets and resolves them.
 
 Peril provides no implicit actions like that, it instead offers a JavaScript runtime environment optimised to this domain so you can make actions to fit your needs.
 
