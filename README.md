@@ -89,6 +89,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [DangerSwiftHammer](https://github.com/el-hoshino/DangerSwiftHammer) - A handy plugin to extend your DangerDSL abilities, like getting git diff patch for a file
 - [danger-swift-commit-lint](https://github.com/AppDifferentia/danger-swift-commit-lint) - A `danger-swift` commit linter
 - [danger-swift-jira](https://github.com/AppDifferentia/danger-swift-jira) - Show Jira issue on the pull request
+- [DangerSwiftJUnit](https://github.com/colinhumber/DangerSwiftJUnit) - Parses JUnit XML files and reports your test suite problems back to the PR.
 
 
 ### Kotlin (danger-kotlin)
