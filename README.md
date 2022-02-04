@@ -58,6 +58,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-go](https://github.com/KennethanCeyer/danger-go) - A Danger plugin for Golang.
 - [danger-rubyc](https://github.com/skatkov/danger-rubyc) - Danger plugin to validate syntax for Ruby files.
 - [danger-yamlint](https://github.com/skatkov/danger-yamlint) - A no-dependency Danger plugin to lint YAML files.
+- [danger-periphery](https://github.com/manicmaniac/danger-periphery) - A Danger plugin to detect unused codes using Periphery.
 
 ### TypeScript (danger-js)
 - [danger-plugin-flow](https://github.com/withspectrum/danger-plugin-flow) - Ensure all JS files that get touched in a PR are flow typed.
@@ -89,6 +90,9 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [DangerSwiftHammer](https://github.com/el-hoshino/DangerSwiftHammer) - A handy plugin to extend your DangerDSL abilities, like getting git diff patch for a file
 - [danger-swift-shoki](https://github.com/yumemi-inc/danger-swift-shoki/) - A danger-swift plug-in to manage/post danger checking reports with markdown style
 - [danger-swift-eda](https://github.com/yumemi-inc/danger-swift-eda/) - A danger-swift plug-in to check if the PR matches a specific workflow (e.g. Git-Flow)
+- [danger-swift-commit-lint](https://github.com/AppDifferentia/danger-swift-commit-lint) - A `danger-swift` commit linter
+- [danger-swift-jira](https://github.com/AppDifferentia/danger-swift-jira) - Show Jira issue on the pull request
+- [DangerSwiftJUnit](https://github.com/colinhumber/DangerSwiftJUnit) - Parses JUnit XML files and reports your test suite problems back to the PR.
 
 
 ### Kotlin (danger-kotlin)
@@ -121,9 +125,9 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 
 ## What is Peril?
 
-[Peril](https://github.com/danger/peril) is a tool that takes GitHub webhooks, and makes it easy to build one-off actions. It does this by having a per-account settings JSON, that connects JavaScript files to events from webhooks. 
+[Peril](https://github.com/danger/peril) is a tool that takes GitHub webhooks, and makes it easy to build one-off actions. It does this by having a per-account settings JSON, that connects JavaScript files to events from webhooks.
 
-So, for example, you can write a rule which runs when closing an issue in GitHub that looks for associated Jira tickets and resolves them. 
+So, for example, you can write a rule which runs when closing an issue in GitHub that looks for associated Jira tickets and resolves them.
 
 Peril provides no implicit actions like that, it instead offers a JavaScript runtime environment optimised to this domain so you can make actions to fit your needs.
 
