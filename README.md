@@ -57,7 +57,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-brakeman](https://github.com/nakamurau1/danger-brakeman) - A Danger plugin for Brakeman.
 - [danger-go](https://github.com/KennethanCeyer/danger-go) - A Danger plugin for Golang.
 - [danger-rubyc](https://github.com/skatkov/danger-rubyc) - Danger plugin to validate syntax for Ruby files.
-- [danger-yamlint](https://github.com/skatkov/danger-yamlint) - A no-dependency Danger plugin to lint YAML files.
+- [danger-yamlint](https://github.com/skatkov/danger-yamlint) - A no-dependency Danger plugin to lint YAML files and fixtures.
 - [danger-periphery](https://github.com/manicmaniac/danger-periphery) - A Danger plugin to detect unused codes using Periphery.
 
 ### TypeScript (danger-js)
