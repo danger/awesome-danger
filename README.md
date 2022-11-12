@@ -121,7 +121,6 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - https://github.com/artsy/force/blob/main/dangerfile.ts
 
 ### Swift (danger-swift)
-- https://github.com/Moya/Harvey/blob/master/Dangerfile.swift
 - https://github.com/Moya/Moya/blob/master/Dangerfile.swift
 
 # Peril
