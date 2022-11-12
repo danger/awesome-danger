@@ -108,7 +108,6 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 ## Dangerfiles
 
 ### Ruby (danger)
-- https://github.com/Moya/Moya/blob/master/Dangerfile
 - https://github.com/SwifterSwift/SwifterSwift/blob/master/Dangerfile
 - https://github.com/IBAnimatable/IBAnimatable/blob/master/Dangerfile
 - https://github.com/CocoaPods/CocoaPods/blob/master/Dangerfile
@@ -123,6 +122,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 
 ### Swift (danger-swift)
 - https://github.com/Moya/Harvey/blob/master/Dangerfile.swift
+- https://github.com/Moya/Moya/blob/master/Dangerfile.swift
 
 # Peril
 
