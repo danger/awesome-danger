@@ -111,12 +111,12 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - https://github.com/SwifterSwift/SwifterSwift/blob/master/Dangerfile
 - https://github.com/IBAnimatable/IBAnimatable/blob/master/Dangerfile
 - https://github.com/CocoaPods/CocoaPods/blob/master/Dangerfile
-- https://github.com/artsy/eigen/blob/master/Dangerfile
 - https://github.com/artsy/energy/blob/master/Dangerfile
 - https://github.com/SwiftWeekly/swiftweekly.github.io/blob/master/Dangerfile
 - https://github.com/pusher/chatkit-swift/blob/master/Dangerfile
 
 ### TypeScript (danger-js)
+- https://github.com/artsy/eigen/blob/main/dangerfile.ts
 - https://github.com/artsy/emission/blob/master/dangerfile.ts
 - https://github.com/artsy/force/blob/main/dangerfile.ts
 
