@@ -78,6 +78,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-plugin-typetalk](https://github.com/is2ei/danger-plugin-typetalk) - DangerJS plugin to send report & message to Typetalk.
 - [danger-plugin-no-test-shortcuts](https://github.com/macklinu/danger-plugin-no-test-shortcuts) - Danger plugin to prevent merging test shortcuts (.only and .skip).
 - [danger-plugin-lint-report](https://github.com/damian-burke/danger-plugin-lint-report/) - A Danger Plugin to parse lint reports (checkstyle, Android lint) and post pull request comments.
+- [danger-plugin-pr-hygiene](https://github.com/maxdeviant/danger-plugin-pr-hygiene) - A Danger plugin for enforcing good PR hygiene.
 
 
 ### Swift (danger-swift)
