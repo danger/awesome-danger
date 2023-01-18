@@ -109,21 +109,20 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 ## Dangerfiles
 
 ### Ruby (danger)
-- https://github.com/Moya/Moya/blob/master/Dangerfile
 - https://github.com/SwifterSwift/SwifterSwift/blob/master/Dangerfile
 - https://github.com/IBAnimatable/IBAnimatable/blob/master/Dangerfile
 - https://github.com/CocoaPods/CocoaPods/blob/master/Dangerfile
-- https://github.com/artsy/force/blob/master/Dangerfile
-- https://github.com/artsy/eigen/blob/master/Dangerfile
-- https://github.com/artsy/energy/blob/master/Dangerfile
 - https://github.com/SwiftWeekly/swiftweekly.github.io/blob/master/Dangerfile
 - https://github.com/pusher/chatkit-swift/blob/master/Dangerfile
 
 ### TypeScript (danger-js)
+- https://github.com/artsy/eigen/blob/main/dangerfile.ts
 - https://github.com/artsy/emission/blob/master/dangerfile.ts
+- https://github.com/artsy/energy/blob/main/dangerfile.ts
+- https://github.com/artsy/force/blob/main/dangerfile.ts
 
 ### Swift (danger-swift)
-- https://github.com/Moya/Harvey/blob/master/Dangerfile.swift
+- https://github.com/Moya/Moya/blob/master/Dangerfile.swift
 
 # Peril
 
@@ -143,7 +142,6 @@ Peril provides no implicit actions like that, it instead offers a JavaScript run
 - https://github.com/CocoaPods/peril-settings
 - https://github.com/Moya/moya-peril
 - https://github.com/RxSwiftCommunity/peril
-- https://github.com/xcode-project-manager/peril-settings
 - https://github.com/loadsmart/peril-staging-settings
 - https://github.com/wearereasonablepeople/peril-settings
 - https://github.com/wemake-services/kira-review
