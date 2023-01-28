@@ -60,6 +60,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-yamlint](https://github.com/skatkov/danger-yamlint) - A no-dependency Danger plugin to lint YAML files and fixtures.
 - [danger-periphery](https://github.com/manicmaniac/danger-periphery) - A Danger plugin to detect unused codes using Periphery.
 - [danger-danger_plugin_lint](https://github.com/manicmaniac/danger-danger_plugin_lint) - A Danger plugin to lint a danger plugin.
+- [danger-mailmap](https://github.com/manicmaniac/danger-mailmap) - A Danger plugin to check if .mailmap has a canonical name of author and committer.
 
 ### TypeScript (danger-js)
 - [danger-plugin-flow](https://github.com/withspectrum/danger-plugin-flow) - Ensure all JS files that get touched in a PR are flow typed.
