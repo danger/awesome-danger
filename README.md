@@ -57,8 +57,10 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-brakeman](https://github.com/nakamurau1/danger-brakeman) - A Danger plugin for Brakeman.
 - [danger-go](https://github.com/KennethanCeyer/danger-go) - A Danger plugin for Golang.
 - [danger-rubyc](https://github.com/skatkov/danger-rubyc) - Danger plugin to validate syntax for Ruby files.
-- [danger-yamlint](https://github.com/skatkov/danger-yamlint) - A no-dependency Danger plugin to lint YAML files.
+- [danger-yamlint](https://github.com/skatkov/danger-yamlint) - A no-dependency Danger plugin to lint YAML files and fixtures.
 - [danger-periphery](https://github.com/manicmaniac/danger-periphery) - A Danger plugin to detect unused codes using Periphery.
+- [danger-danger_plugin_lint](https://github.com/manicmaniac/danger-danger_plugin_lint) - A Danger plugin to lint a danger plugin.
+- [danger-mailmap](https://github.com/manicmaniac/danger-mailmap) - A Danger plugin to check if .mailmap has a canonical name of author and committer.
 
 ### TypeScript (danger-js)
 - [danger-plugin-flow](https://github.com/withspectrum/danger-plugin-flow) - Ensure all JS files that get touched in a PR are flow typed.
@@ -78,6 +80,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-plugin-typetalk](https://github.com/is2ei/danger-plugin-typetalk) - DangerJS plugin to send report & message to Typetalk.
 - [danger-plugin-no-test-shortcuts](https://github.com/macklinu/danger-plugin-no-test-shortcuts) - Danger plugin to prevent merging test shortcuts (.only and .skip).
 - [danger-plugin-lint-report](https://github.com/damian-burke/danger-plugin-lint-report/) - A Danger Plugin to parse lint reports (checkstyle, Android lint) and post pull request comments.
+- [danger-plugin-pr-hygiene](https://github.com/maxdeviant/danger-plugin-pr-hygiene) - A Danger plugin for enforcing good PR hygiene.
 
 
 ### Swift (danger-swift)
@@ -93,34 +96,36 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-swift-commit-lint](https://github.com/AppDifferentia/danger-swift-commit-lint) - A `danger-swift` commit linter
 - [danger-swift-jira](https://github.com/AppDifferentia/danger-swift-jira) - Show Jira issue on the pull request
 - [DangerSwiftJUnit](https://github.com/colinhumber/DangerSwiftJUnit) - Parses JUnit XML files and reports your test suite problems back to the PR.
+- [DangerSwiftPeriphery](https://github.com/taji-taji/DangerSwiftPeriphery) - A danger-swift plugin to detect unused codes using Periphery.
 - [danger-swift-kantoku](https://github.com/yumemi-inc/danger-swift-kantoku) - A danger-swift plug-in to parse your build result from .xcresult bundle instead of xcpretty-json-formatter, so you can rely on fewer Gem dependencies
 
 
 ### Kotlin (danger-kotlin)
 - [danger-kotlin-android-lint-plugin](https://github.com/gianluz/danger-kotlin-android-lint-plugin) - Show the android lint errors
 - [danger-kotlin-detekt](https://github.com/AckeeCZ/danger-kotlin-detekt) - Process outputs of detekt tool
+- [danger-detekt-kotlin](https://github.com/pavelkorolevxyz/danger-detekt-kotlin) - Parse and report detekt outputs in customizable manner
 - [danger-kotlin-commit-lint](https://github.com/AckeeCZ/danger-kotlin-commit-lint) - Lint the commit messages
 - [danger-kotlin-junit](https://github.com/AckeeCZ/danger-kotlin-junit) - Process junit reports
 - [danger-kotlin-jira](https://github.com/rojanthomas/danger-kotlin-jira) - Collect and display mentioned JIRA issues as a hyperlinked Danger message
+- [danger-kotlin-jacoco](https://github.com/appsynth-org/danger-kotlin-jacoco) - Process JaCoCo code coverage reports
 
 ## Dangerfiles
 
 ### Ruby (danger)
-- https://github.com/Moya/Moya/blob/master/Dangerfile
 - https://github.com/SwifterSwift/SwifterSwift/blob/master/Dangerfile
 - https://github.com/IBAnimatable/IBAnimatable/blob/master/Dangerfile
 - https://github.com/CocoaPods/CocoaPods/blob/master/Dangerfile
-- https://github.com/artsy/force/blob/master/Dangerfile
-- https://github.com/artsy/eigen/blob/master/Dangerfile
-- https://github.com/artsy/energy/blob/master/Dangerfile
 - https://github.com/SwiftWeekly/swiftweekly.github.io/blob/master/Dangerfile
 - https://github.com/pusher/chatkit-swift/blob/master/Dangerfile
 
 ### TypeScript (danger-js)
+- https://github.com/artsy/eigen/blob/main/dangerfile.ts
 - https://github.com/artsy/emission/blob/master/dangerfile.ts
+- https://github.com/artsy/energy/blob/main/dangerfile.ts
+- https://github.com/artsy/force/blob/main/dangerfile.ts
 
 ### Swift (danger-swift)
-- https://github.com/Moya/Harvey/blob/master/Dangerfile.swift
+- https://github.com/Moya/Moya/blob/master/Dangerfile.swift
 
 # Peril
 
@@ -140,7 +145,6 @@ Peril provides no implicit actions like that, it instead offers a JavaScript run
 - https://github.com/CocoaPods/peril-settings
 - https://github.com/Moya/moya-peril
 - https://github.com/RxSwiftCommunity/peril
-- https://github.com/xcode-project-manager/peril-settings
 - https://github.com/loadsmart/peril-staging-settings
 - https://github.com/wearereasonablepeople/peril-settings
 - https://github.com/wemake-services/kira-review
