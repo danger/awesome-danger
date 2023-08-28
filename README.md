@@ -62,6 +62,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-danger_plugin_lint](https://github.com/manicmaniac/danger-danger_plugin_lint) - A Danger plugin to lint a danger plugin.
 - [danger-mailmap](https://github.com/manicmaniac/danger-mailmap) - A Danger plugin to check if .mailmap has a canonical name of author and committer.
 - [danger-chikuwa](https://github.com/watanavex/chikuwa) - A Danger Plugin for reporting Android build errors and warnings.
+- [danger-sarif](https://github.com/irgaly/danger-sarif) - Danger plugin for reporting SARIF file.
 
 ### TypeScript (danger-js)
 - [danger-plugin-flow](https://github.com/withspectrum/danger-plugin-flow) - Ensure all JS files that get touched in a PR are flow typed.
