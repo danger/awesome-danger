@@ -64,6 +64,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-chikuwa](https://github.com/watanavex/chikuwa) - A Danger Plugin for reporting Android build errors and warnings.
 - [danger-sarif](https://github.com/irgaly/danger-sarif) - Danger plugin for reporting SARIF file.
 - [danger-spm_version_updates](https://github.com/hbmartin/danger-spm_version_updates) - Danger plugin to report updates to Swift Package Manager dependencies.
+- [danger-shroud](https://github.com/livefront/danger-shroud) - A danger plugin for enforcing code coverage via a Jacoco coverage report.
 
 ### TypeScript (danger-js)
 - [danger-plugin-flow](https://github.com/withspectrum/danger-plugin-flow) - Ensure all JS files that get touched in a PR are flow typed.
