@@ -67,6 +67,7 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - [danger-shroud](https://github.com/livefront/danger-shroud) - A danger plugin for enforcing code coverage via a Jacoco coverage report.
 
 ### TypeScript (danger-js)
+- [danger-plugin-atlassian](https://github.com/atlassian-labs/danger-plugin-atlassian) - Atlassian’s official plugin for conditionally creating Bitbucket Cloud tasks and assigning reviewers.
 - [danger-plugin-flow](https://github.com/withspectrum/danger-plugin-flow) - Ensure all JS files that get touched in a PR are flow typed.
 - [danger-plugin-labels](https://github.com/withspectrum/danger-plugin-labels) - Let any contributor add labels to their PRs and issues.
 - [danger-plugin-yarn](https://github.com/orta/danger-plugin-yarn) - Provides dependency information on dependency changes in a PR *
