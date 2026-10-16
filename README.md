@@ -9,7 +9,7 @@
 
 ## What is Danger?
 
-[Danger](https://github.com/danger/danger) runs after your CI, automating your team's conventions surrounding code review.
+[Danger](https://github.com/danger/danger) runs during your CI process, automating your team's conventions surrounding code review.
 
 This provides another logical step in your process, through this Danger can help lint your rote tasks in daily code review.
 
@@ -119,8 +119,9 @@ You can use Danger to codify your teams norms, leaving humans to think about har
 - https://github.com/SwifterSwift/SwifterSwift/blob/master/Dangerfile
 - https://github.com/IBAnimatable/IBAnimatable/blob/master/Dangerfile
 - https://github.com/CocoaPods/CocoaPods/blob/master/Dangerfile
-- https://github.com/SwiftWeekly/swiftweekly.github.io/blob/master/Dangerfile
+- https://github.com/SwiftWeekly/swiftweekly.github.io/blob/main/Dangerfile
 - https://github.com/pusher/chatkit-swift/blob/master/Dangerfile
+- https://github.com/wemake-services/kira-review/blob/master/Dangerfile
 
 ### TypeScript (danger-js)
 - https://github.com/artsy/eigen/blob/main/dangerfile.ts
@@ -151,7 +152,6 @@ Peril provides no implicit actions like that, it instead offers a JavaScript run
 - https://github.com/RxSwiftCommunity/peril
 - https://github.com/loadsmart/peril-staging-settings
 - https://github.com/wearereasonablepeople/peril-settings
-- https://github.com/wemake-services/kira-review
 
 ### Personal
 - https://github.com/ashfurrow/peril-settings
